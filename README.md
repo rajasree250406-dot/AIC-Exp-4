@@ -15,13 +15,8 @@ To Simulate R2R-Ladder DAC using Op-amp
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
 
-  **CIRCUIT DIAGRAM**
+**CIRCUIT DIAGRAM**
   <img width="1275" height="1650" alt="R-2R CD 1_page-0001" src="https://github.com/user-attachments/assets/e7a64fc0-740f-45f5-9964-3cf70ba2a2ea" />
-
-
-
-
-
 
   **Output waveform**
   <img width="1275" height="1650" alt="R-2R Output 2_page-0001" src="https://github.com/user-attachments/assets/9fa727a2-a193-4d33-9dc2-82a255547a10" />
