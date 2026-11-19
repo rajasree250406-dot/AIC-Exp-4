@@ -17,5 +17,7 @@ To Simulate R2R-Ladder DAC using Op-amp
 
   **CIRCUIT DIAGRAM**
 
+  "C:\Users\acer\Downloads\R-2R CD 1.pdf"
+
 
   **Output waveform**
